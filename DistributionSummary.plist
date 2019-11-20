@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WarmHomeGZ.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CC651D67848F3535C5B0A27BC1343D3C7B8007C9</string>
+				<key>dateExpires</key>
+				<string>2020/5/3</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>CC651D67848F3535C5B0A27BC1343D3C7B8007C9</string>
+						<key>dateExpires</key>
+						<string>2020/5/3</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Hyphenate.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>H26Y54627N</string>
+						<key>name</key>
+						<string>Beijing Wondersoft Technology Co.,Ltd</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>H26Y54627N.com.goldShield.WarmHomeGZ</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>H26Y54627N</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>WarmHomeGZ.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>55795d92-22c1-48e9-a8b2-b3b0fa1d53f4</string>
+				<key>name</key>
+				<string>XC iOS: com.goldShield.WarmHomeGZ</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>H26Y54627N</string>
+				<key>name</key>
+				<string>Beijing Wondersoft Technology Co.,Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
